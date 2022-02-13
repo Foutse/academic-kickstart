@@ -8,7 +8,7 @@ weight: 10
 title: Biography
 design:
   background:
-    image: cloclo.jpeg
+    image: ""
     image_darken: 0
 ---
 Je suis thésarde en mathématiques appliquées et en parallèle je suis enseignante vacataire de mathématiques
