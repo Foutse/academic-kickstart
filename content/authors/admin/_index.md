@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Université Côte d'Azur
+    url: https://univ-cotedazur.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Applied Mathematics
+      institution: Université Côte d'Azur / Inria
+      year: 2022
+    - course: MSc in Applied Mathematics
+      institution: " University of Douala Cameroun"
+      year: 2022
+    - course: BSc in Applied Mathematics
+      institution: " University of Douala Cameroun"
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
