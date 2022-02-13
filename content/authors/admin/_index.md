@@ -34,10 +34,10 @@ education:
       year: 2022
     - course: MSc in Applied Mathematics
       institution: " University of Douala Cameroun"
-      year: 2022
+      year: 2017
     - course: BSc in Applied Mathematics
       institution: " University of Douala Cameroun"
-      year: 2011
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
