@@ -7,7 +7,7 @@ abstract: This paper deals with the problem of modelling and optimal control of
   strategy can be implemented in a coffee plantation to reduce the damage caused
   by CLR, therefore increasing the coffee production. Numerical simulations are
   performed to illustrate and validate the theoretical results.
-slides: example
+slides: https://hal.inria.fr/hal-03274865
 url_pdf: ""
 publication_types:
   - "1"
@@ -41,10 +41,4 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+This paper deals with the problem of modelling and optimal control of the coffee leaf rust (CLR) in a coffee plantation. We first formulate and analyze a mathematical model for the propagation of CLR with impulsive effect, which represents the non-production period of coffee. Then, the CLR control is formulated and solved as an optimal control, showing how a biological control strategy can be implemented in a coffee plantation to reduce the damage caused by CLR, therefore increasing the coffee production. Numerical simulations are performed to illustrate and validate the theoretical results.
