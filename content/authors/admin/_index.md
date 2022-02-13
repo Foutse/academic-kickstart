@@ -14,16 +14,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DjuikemClotilde
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://hal.inria.fr/search/index/q/*/authFullName_s/Clotilde+Djuikem
+  - icon: youtube
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.youtube.com/c/MathsPourTous24
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/clotilde-djuikem-8186901a0/
 organizations:
   - name: Université Côte d'Azur
     url: https://univ-cotedazur.fr/
@@ -38,7 +38,7 @@ education:
     - course: BSc in Applied Mathematics
       institution: " University of Douala Cameroun"
       year: 2015
-email: ""
+email: clotilde.djuikem@inria.fr
 superuser: true
 highlight_name: true
 ---
