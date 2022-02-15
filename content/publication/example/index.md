@@ -16,7 +16,14 @@ authors:
   - Agustín Yabo
   - Frédéric Grognard
   - Suzanne Touzeau
-author_notes: []
+author_notes:
+  - BIOCORE - Biological control of artificial ecosystems CRISAM - Inria Sophia
+    Antipolis - Méditerranée
+  - LOV - Laboratoire d'océanographie de Villefranche
+  - INRAE - Institut National de Recherche pour l’Agriculture
+  - l’Alimentation et l’Environnement 2 UCA - Université Côte d'Azur 3 LIRIMA -
+    Laboratoire International de Recherche en Informatique et Mathématiques
+    Appliquées 4 ISA - Institut Sophia Agrobiotech
 publication: In *ADHS 2021 - 7th IFAC Conference on Analysis and Design of Hybrid Systems*
 summary: ""
 url_dataset: ""
@@ -28,7 +35,10 @@ title: Mathematical modelling and optimal control of the seasonal coffee leaf
   rust propagation
 doi: 10.1016/j.ifacol.2021.08.497
 featured: true
-tags: []
+tags:
+  - Mathematics [math] / Dynamical Systems [math.DS] Mathematics [math] /
+    Optimization and Control [math.OC] Life Sciences [q-bio] / Agricultural
+    sciences / Agronomy
 projects:
   - example
 image:
@@ -37,7 +47,7 @@ image:
   preview_only: false
 date: 2021-06-30T22:17:48.550Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
