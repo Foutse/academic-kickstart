@@ -17,7 +17,7 @@ author_notes:
   - l’Alimentation et l’Environnement 2 UCA - Université Côte d'Azur 3 LIRIMA -
     Laboratoire International de Recherche en Informatique et Mathématiques
     Appliquées 4 ISA - Institut Sophia Agrobiotech
-doi: hal-03456344
+doi: https://hal.inria.fr/hal-03456344
 publication: https://hal.inria.fr/hal-03456344
 abstract: Coffee is one of the most widely consumed beverages in the world. Its
   cultivation is an important factor of social and economic stability. However,
