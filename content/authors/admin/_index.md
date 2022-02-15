@@ -18,9 +18,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://hal.inria.fr/search/index/q/*/authFullName_s/Clotilde+Djuikem
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/c/MathsPourTous24
+  # - icon: youtube
+  #  icon_pack: fab
+  #  link: https://www.youtube.com/c/MathsPourTous24
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/clotilde-djuikem-8186901a0/
