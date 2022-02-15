@@ -1,6 +1,6 @@
 ---
 title: Clotilde Djuikem
-role: Researcher PHD Student chez Inria
+role: Researcher PHD Student at Inria
 avatar_filename: cloclo.jpg
 bio: "Je suis thésardJe en mathématiques appliquées et en parallèle je suis
   enseignante vacataire de mathématiques "
