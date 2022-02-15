@@ -1,8 +1,7 @@
 ---
 title: Impulsive model and hyperparasite-based biocontrol of coffee leaf rust
   propagation
-subtitle: MPDEE 2021 - Conference on Mathematical Population Dynamics, Ecology
-  and Evolution, Apr 2021, Marseille, France
+subtitle: ""
 publication_types:
   - "1"
 authors:
@@ -18,7 +17,8 @@ author_notes:
     Laboratoire International de Recherche en Informatique et Mathématiques
     Appliquées 4 ISA - Institut Sophia Agrobiotech
 doi: https://hal.inria.fr/hal-03456344
-publication: https://hal.inria.fr/hal-03456344
+publication: MPDEE 2021 - Conference on Mathematical Population Dynamics,
+  Ecology and Evolution.
 abstract: Coffee is one of the most widely consumed beverages in the world. Its
   cultivation is an important factor of social and economic stability. However,
   its production is affected by several diseases. Coffee leaf rust (CLR), a
