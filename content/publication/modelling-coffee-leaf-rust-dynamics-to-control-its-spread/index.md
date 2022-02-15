@@ -8,6 +8,16 @@ authors:
   - Roger Tagne Wafo
   - Suzanne Touzeau
   - Samuel Bowong
+author_notes:
+  - BIOCORE - Biological control of artificial ecosystems CRISAM - Inria Sophia
+    Antipolis - Méditerranée
+  - LOV - Laboratoire d'océanographie de Villefranche
+  - INRAE - Institut National de Recherche pour l’Agriculture
+  - l’Alimentation et l’Environnement 2 UCA - Université Côte d'Azur 3 LIRIMA -
+    Laboratoire International de Recherche en Informatique et Mathématiques
+    Appliquées 4 Dpt of Mathematics and Computer Science [Douala] 5 ISA -
+    Institut Sophia Agrobiotech 6 UMMISCO - Unité de modélisation mathématique
+    et informatique des systèmes complexes [Bondy]
 doi: 10.1051/mmnp/2021018
 publication: Mathematical Modelling of Natural Phenomena, EDP Sciences
 abstract: Coffee leaf rust (CLR) is one of the main diseases that affect coffee
