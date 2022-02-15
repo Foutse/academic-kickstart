@@ -45,8 +45,6 @@ highlight_name: true
 ---
 Clotilde Djuikem  is a Cameroonian researcher who loves to spread her knowledge in mathematics and encourage people to see the beauty of mathematics and its application to our day to day lives. This strong desire led to the creation of her YouTube channel [MathPourTous](https://www.youtube.com/c/MathsPourTous24). 
 
-Clotilde  holds a License and a Master's degree  in Applied Mathematics from the University of Douala, Cameroon. Her master's degree specialization was in mathematics applied to life sciences with her thesis topic entitled “Study and simulation of the propagation of fungus Hemileia vastarix, coffee pest”. She successfully defended her masters thesis as a valedictorian. She is currently pursuing a PhD in Applied Mathematics working on the Modeling and control of perennial plant phytopathogens. Her main research interest spans around mathematical epidemiology and ecology, dynamical systems, mathematical modeling, numerical analysis. 
+Clotilde  holds a Bachelor's and a Master's degree  in Applied Mathematics from the University of Douala, Cameroon. Her master's degree specialization was in mathematics applied to life sciences with her thesis topic entitled “Study and simulation of the propagation of fungus Hemileia vastarix, coffee pest”. She successfully defended her masters thesis as a valedictorian. 
 
-On her free time, she loves reading, traveling, dancing, and plays handball and volleyball
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+She is currently pursuing a PhD in Applied Mathematics working on the Modeling and control of perennial plant phytopathogens. Her main research interest spans around mathematical epidemiology and ecology, dynamical systems, mathematical modeling, numerical analysis. On her free time, she loves reading, traveling, dancing, and plays handball and volleybal.
