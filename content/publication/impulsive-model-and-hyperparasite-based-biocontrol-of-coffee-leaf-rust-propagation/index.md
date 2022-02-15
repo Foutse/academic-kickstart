@@ -18,7 +18,7 @@ author_notes:
     Appliquées 4 ISA - Institut Sophia Agrobiotech
 doi: https://hal.inria.fr/hal-03456344
 publication: MPDEE 2021 - Conference on Mathematical Population Dynamics,
-  Ecology and Evolution.
+  Ecology and Evolution
 abstract: Coffee is one of the most widely consumed beverages in the world. Its
   cultivation is an important factor of social and economic stability. However,
   its production is affected by several diseases. Coffee leaf rust (CLR), a
