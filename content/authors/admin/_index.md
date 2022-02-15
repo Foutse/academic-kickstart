@@ -43,9 +43,10 @@ email: clotilde.djuikem@inria.fr
 superuser: true
 highlight_name: true
 ---
+Clotilde Djuikem  is a Cameroonian researcher who loves to spread her knowledge in mathematics and encourage people to see the beauty of mathematics and its application to our day to day lives. This strong desire led to the creation of her YouTube channel [MathPourTous](https://www.youtube.com/c/MathsPourTous24). 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Clotilde  holds a License and a Master's degree  in Applied Mathematics from the University of Douala, Cameroon. Her master's degree specialization was in mathematics applied to life sciences with her thesis topic entitled “Study and simulation of the propagation of fungus Hemileia vastarix, coffee pest”. She successfully defended her masters thesis as a valedictorian. She is currently pursuing a PhD in Applied Mathematics working on the Modeling and control of perennial plant phytopathogens. Her main research interest spans around mathematical epidemiology and ecology, dynamical systems, mathematical modeling, numerical analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On her free time, she loves reading, traveling, dancing, and plays handball and volleyball
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
