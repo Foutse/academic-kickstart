@@ -5,10 +5,10 @@ avatar_filename: cloclo.jpg
 bio: "Je suis thésardJe en mathématiques appliquées et en parallèle je suis
   enseignante vacataire de mathématiques "
 interests:
-  - mathematical epidemiology and ecology
-  - dynamical systems
-  - mathematical modelling
-  - numerical analysis
+  - Mathematical epidemiology and ecology
+  - Dynamical systems
+  - Mathematical modelling
+  - Numerical analysis
 social:
   - icon: envelope
     icon_pack: fas
