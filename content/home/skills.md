@@ -23,11 +23,16 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Matlab
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Maple
+
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Scilab
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
