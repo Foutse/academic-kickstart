@@ -36,7 +36,7 @@ feature:
   
 - icon: "mathlab"
   icon_pack: "mathlab"
-  name: "Matlab
+  name: "Matlab"
   description: "90%"
   
 # Uncomment to use emoji icons.
