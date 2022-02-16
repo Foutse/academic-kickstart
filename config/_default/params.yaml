@@ -40,7 +40,7 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: @DjuikemClotilde
+    name: DjuikemClotilde
     link: 'https://twitter.com/DjuikemClotilde'
   - icon: skype
     icon_pack: fab
