@@ -35,9 +35,9 @@ feature:
   name: Scilab
   
 - icon: "mathlab"
-  icon_pack: "mathlab"
-  name: "Matlab"
-  description: "90%"
+  icon_pack: "custom"
+  name: "Python"
+  description: ""
   
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
