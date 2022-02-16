@@ -36,9 +36,11 @@ title: Mathematical modelling and optimal control of the seasonal coffee leaf
 doi: 10.1016/j.ifacol.2021.08.497
 featured: true
 tags:
-  - Mathematics [math] / Dynamical Systems [math.DS] Mathematics [math] /
-    Optimization and Control [math.OC] Life Sciences [q-bio] / Agricultural
-    sciences / Agronomy
+  - Mathematics
+  - / Dynamical Systems [math.DS] Mathematics [math] / Optimization and Control
+  - Life Sciences
+  - Agricultural sciences
+  - Agronomy
 projects:
   - example
 image:
