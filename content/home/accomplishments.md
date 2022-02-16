@@ -24,29 +24,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://sites.uclouvain.be/adhs21/
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021-07-25"
+  description: This Conference brings together researchers and practitioners in the area of hybrid systems, with backgrounds in control, computer science, and operations research, to provide a forum for discussing and presenting recent results in the fields of hybrid and cyber-physical systems.
+  organization: ADHS 2021 - 7th IFAC Conference 
+  organization_url: https://sites.uclouvain.be/adhs21/
+  title:Analysis and Design of Hybrid Systems, IFAC, Jul 2021, Brussels, Belgium.
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://mpdee21.mio.osupytheas.fr/
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2021-05-01"
+  description: This conference aims to bring mathematicians interested in applications in ecology and evolution together.
+  organization: MPDEE 21 Conference
+  organization_url: https://mpdee21.mio.osupytheas.fr/
+  title: Mathematical Population Dynamics, Ecology and Evolution”, April 2021, Marseille, France
+  url: ""
+- certificate_url: https://www.biomath.bg/
+  date_end: "2019-06-22"
+  date_start: "2019-06-16"
+  description: Biomath forum is a nonprofit organisation for the advance of biomathematical science and innovation worldwide. Journal "BIOMATH" is a new publication in mathematical and computational biology.
+  organization: BIOMATH 2019 conference
+  organization_url: https://www.biomath.bg/
+  title: 'Modeling and controlling fungus Hemileia vastatrix, a coffee pest, 16-22 June 2019, Będlewo, Poland'
   url: ""
 
 design:
