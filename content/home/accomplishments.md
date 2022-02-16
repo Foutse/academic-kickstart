@@ -33,7 +33,7 @@ item:
   organization_url: https://sites.uclouvain.be/adhs21/
   title: Analysis and Design of Hybrid Systems, IFAC, Jul 2021, Brussels, Belgium.
   url: ""
-- certificate_url: https://mpdee21.mio.osupytheas.fr/
+- certificate_url: ""
   date_end: ""
   date_start: "2021-05-01"
   description: This conference aims to bring mathematicians interested in applications in ecology and evolution together.
@@ -41,7 +41,7 @@ item:
   organization_url: https://mpdee21.mio.osupytheas.fr/
   title: Mathematical Population Dynamics, Ecology and Evolution”, April 2021, Marseille, France
   url: ""
-- certificate_url: https://www.biomath.bg/
+- certificate_url: ""
   date_end: "2019-06-22"
   date_start: "2019-06-16"
   description: Biomath forum is a nonprofit organisation for the advance of biomathematical science and innovation worldwide. Journal "BIOMATH" is a new publication in mathematical and computational biology.
