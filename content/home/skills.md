@@ -33,7 +33,12 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Scilab
-
+  
+- icon: "mathlab"
+  icon_pack: "mathlab"
+  name: "Matlab
+  description: "90%"
+  
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #  icon_pack: "emoji"
@@ -44,8 +49,3 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-- icon: "mathlab"
-  icon_pack: "mathlab"
-  name: "Matlab
-  description: "10%"
----
