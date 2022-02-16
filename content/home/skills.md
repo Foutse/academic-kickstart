@@ -21,19 +21,13 @@ feature:
   icon_pack: fab
   name: R
 - description: ''
-  icon: camera-retro
-  icon_pack: fas
-  name: Matlab
-- description: ''
   icon: "maple"
-  icon_pack: "custom
+  icon_pack: "custom"
   name: "Maple"
-
 - description: ''
-  icon: camera-retro
-  icon_pack: fas
-  name: Scilab
-  
+  icon: "scilab"
+  icon_pack: "custom"
+  name: "Scilab"
 - icon: "python"
   icon_pack: "custom"
   name: "Python"
