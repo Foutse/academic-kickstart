@@ -51,7 +51,7 @@ feature:
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
 
 - icon: "mathlab"
-  icon_pack: "mathlab"
+  icon_pack: "custom"
   name: "Matlab"
   description: "90%"
   ---
