@@ -34,8 +34,8 @@ feature:
   icon_pack: fas
   name: Scilab
   
-- icon: "matlab"
-  icon_pack: "matlab"
+- icon: "mathlab"
+  icon_pack: "mathlab"
   name: "Matlab"
   description: ""
   
