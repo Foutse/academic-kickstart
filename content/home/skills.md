@@ -34,10 +34,10 @@ feature:
   icon_pack: fas
   name: Scilab
   
-- icon: "mathlab"
-  icon_pack: "mathlab"
-  name: "Matlab
-  description: "90%"
+- icon: "matlab"
+  icon_pack: "matlab"
+  name: "Matlab"
+  description: ""
   
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
