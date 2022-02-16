@@ -42,6 +42,14 @@ item:
   title: Mathematical Population Dynamics, Ecology and Evolution”, April 2021, Marseille, France
   url: ""
 - certificate_url: ""
+  date_end: "2020-03-10"
+  date_start: "2020-03-09"
+  description: A two-day workshop on Applied and Industrial Mathematics. The goal of MOMI2020 is to allow young researchers to discover the link between the industrial world and applied mathematics and familiarize themselves with such approaches and related companies.
+  organization: MOMI2020
+  organization_url: https://phd-seminars-sam.inria.fr/momi2020/
+  title: 'Le Monde des mathématiques Industrielles, 09-10 March 2020, Nice, France.'
+  url: ""
+- certificate_url: ""
   date_end: "2019-06-22"
   date_start: "2019-06-16"
   description: Biomath forum is a nonprofit organisation for the advance of biomathematical science and innovation worldwide. Journal "BIOMATH" is a new publication in mathematical and computational biology.
@@ -49,6 +57,7 @@ item:
   organization_url: https://www.biomath.bg/
   title: 'Modeling and controlling fungus Hemileia vastatrix, a coffee pest, 16-22 June 2019, Będlewo, Poland'
   url: ""
+
 
 design:
   columns: '2' 
