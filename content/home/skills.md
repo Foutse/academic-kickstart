@@ -52,5 +52,5 @@ feature:
 - icon: "mathlab"
   icon_pack: "custom"
   name: "Matlab"
-  description: "90%"
+  description: ""
 ---
