@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: ''
-  icon: r-project
+  icon: camera-retro
   icon_pack: fas
   name: Matlab
 - description: ''
