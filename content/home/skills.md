@@ -34,7 +34,7 @@ feature:
   icon_pack: fas
   name: Scilab
   
-- icon: "mathlab"
+- icon: "python"
   icon_pack: "custom"
   name: "Python"
   description: ""
