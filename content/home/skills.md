@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Matlab
 - description: ''
-  icon: camera-retro
-  icon_pack: fas
-  name: Maple
+  icon: "maple"
+  icon_pack: "custom
+  name: "Maple"
 
 - description: ''
   icon: camera-retro
