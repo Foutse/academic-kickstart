@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Temporary lecturer
     company: Polytech Nice, Sophia-Antipolis, University of Nice Côte d’Azur
     company_url: 'https://polytech.univ-cotedazur.fr/'
@@ -49,7 +50,7 @@ experience:
     date_end: '2018-03-31'
     description: Mathematics ("BTS" level)
     
-   - title: Tutor for high school pupils
+  - title: Tutor for high school pupils
     company: College
     company_url: ''
     company_logo: org-gc
