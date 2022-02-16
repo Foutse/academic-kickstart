@@ -38,7 +38,7 @@ experience:
     company_logo: org-x
     location: Douala
     date_start: '2018-10-01'
-    date_end: '2019-02-31'
+    date_end: '2019-02-27'
     description: Mathematics ("DUT" and BSc level)
     
   - title: Temporary lecturer
