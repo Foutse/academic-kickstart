@@ -37,7 +37,9 @@ doi: 10.1016/j.ifacol.2021.08.497
 featured: true
 tags:
   - Mathematics
-  - / Dynamical Systems [math.DS] Mathematics [math] / Optimization and Control
+  - Dynamical Systems
+  - Mathematics
+  - Optimization and Control
   - Life Sciences
   - Agricultural sciences
   - Agronomy
