@@ -30,7 +30,7 @@ item:
   description: This Conference brings together researchers and practitioners in the area of hybrid systems, with backgrounds in control, computer science, and operations research, to provide a forum for discussing and presenting recent results in the fields of hybrid and cyber-physical systems.
   organization: ADHS 2021 - 7th IFAC Conference 
   organization_url: https://sites.uclouvain.be/adhs21/
-  title:Analysis and Design of Hybrid Systems, IFAC, Jul 2021, Brussels, Belgium.
+  title: Analysis and Design of Hybrid Systems, IFAC, Jul 2021, Brussels, Belgium.
   url: ""
 - certificate_url: https://mpdee21.mio.osupytheas.fr/
   date_end: ""
