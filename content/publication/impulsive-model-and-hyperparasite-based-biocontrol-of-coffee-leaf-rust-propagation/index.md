@@ -47,9 +47,13 @@ abstract: Coffee is one of the most widely consumed beverages in the world. Its
 draft: false
 featured: false
 tags:
-  - Computer Science [cs] / Automatic Control Engineering Mathematics [math] /
-    Dynamical Systems [math.DS] Life Sciences [q-bio] / Ecology
-  - environment / Ecosystems
+  - Computer Science
+  - Automatic Control Engineering Mathematics
+  - Dynamical Systems
+  - Life Sciences
+  - Ecology
+  - environment
+  - Ecosystems
 image:
   filename: featured
   focal_point: Smart
