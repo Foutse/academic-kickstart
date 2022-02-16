@@ -28,7 +28,7 @@ experience:
     company_url: 'https://polytech.univ-cotedazur.fr/'
     company_logo: org-x
     location: Nice, France
-    date_start: '2019'
+    date_start: '2019-03-01'
     date_end: ''
     description: Mathematics
     
@@ -55,8 +55,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Douala
-    date_start: '2013'
-    date_end: '2016'
+    date_start: '2013-09-01'
+    date_end: '2016-07-01'
     description: |2-
         Teaching courses include:
         
