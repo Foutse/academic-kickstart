@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: ''
-  icon: chart-line
+  icon: Matlab_Logo
   icon_pack: fas
   name: Matlab
 - description: ''
