@@ -24,7 +24,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://sites.uclouvain.be/adhs21/
+# https://sites.uclouvain.be/adhs21/
+- certificate_url: 
   date_end: ""
   date_start: "2021-07-25"
   description: This Conference brings together researchers and practitioners in the area of hybrid systems, with backgrounds in control, computer science, and operations research, to provide a forum for discussing and presenting recent results in the fields of hybrid and cyber-physical systems.
