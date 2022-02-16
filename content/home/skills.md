@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: ''
-  icon: Matlab_Logo
+  icon: matlab
   icon_pack: fas
   name: Matlab
 - description: ''
