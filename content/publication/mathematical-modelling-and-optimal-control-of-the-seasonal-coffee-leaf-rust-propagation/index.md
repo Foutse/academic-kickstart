@@ -4,15 +4,18 @@ title: Mathematical modelling and optimal control of the seasonal coffee
 publication_types:
   - "1"
 authors:
-  - "- Clotilde Djuikem   - Agustín Yabo   - Frédéric Grognard   - Suzanne
-    Touzeau"
+  - Clotilde Djuikem
+  - Agustín Yabo
+  - Frédéric Grognard
+  - Suzanne Touzeau
 author_notes:
-  - "- BIOCORE - Biological control of artificial ecosystems CRISAM - Inria
-    Sophia     Antipolis - Méditerranée   - LOV - Laboratoire d'océanographie de
-    Villefranche   - INRAE - Institut National de Recherche pour
-    l’Agriculture   - l’Alimentation et l’Environnement 2 UCA - Université Côte
-    d'Azur 3 LIRIMA -     Laboratoire International de Recherche en Informatique
-    et Mathématiques     Appliquées 4 ISA - Institut Sophia Agrobiotech"
+  - BIOCORE - Biological control of artificial ecosystems CRISAM - Inria
+    Sophia     Antipolis - Méditerranée
+  - LOV - Laboratoire d'océanographie de Villefranche
+  - INRAE - Institut National de Recherche pour l’Agriculture
+  - l’Alimentation et l’Environnement 2 UCA - Université Côte d'Azur 3 LIRIMA
+    -     Laboratoire International de Recherche en Informatique et
+    Mathématiques     -Appliquées 4 ISA - Institut Sophia Agrobiotech
 doi: 10.1016/j.ifacol.2021.08.497
 publication: ADHS 2021 - 7th IFAC Conference on Analysis and Design of Hybrid Systems
 publication_short: IFAC
