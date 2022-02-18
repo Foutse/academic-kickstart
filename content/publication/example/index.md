@@ -7,7 +7,7 @@ abstract: This paper deals with the problem of modelling and optimal control of
   strategy can be implemented in a coffee plantation to reduce the damage caused
   by CLR, therefore increasing the coffee production. Numerical simulations are
   performed to illustrate and validate the theoretical results.
-slides: https://hal.inria.fr/hal-03274865
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -43,8 +43,7 @@ tags:
   - Life Sciences
   - Agricultural sciences
   - Agronomy
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
