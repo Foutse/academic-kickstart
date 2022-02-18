@@ -26,7 +26,7 @@ experience:
   - title: Temporary lecturer
     company: Polytech Nice, Sophia-Antipolis, University of Nice Côte d’Azur
     company_url: 'https://polytech.univ-cotedazur.fr/'
-    company_logo: org-U
+    company_logo: org-u
     location: Nice, France
     date_start: '2019-03-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Temporary lecturer
     company: University of Douala
     company_url: 'https://www.univ-douala.cm/'
-    company_logo: org-U
+    company_logo: org-u
     location: Douala
     date_start: '2018-10-01'
     date_end: '2019-02-27'
@@ -44,7 +44,7 @@ experience:
   - title: Temporary lecturer
     company: Institut Universitaire de la Côte
     company_url: 'https://myiuc.com/en/home-en/'
-    company_logo: org-U
+    company_logo: org-u
     location: Douala
     date_start: '2017-10-01'
     date_end: '2018-03-31'
@@ -53,7 +53,7 @@ experience:
   - title: Tutor for high school pupils
     company: College
     company_url: ''
-    company_logo: org-C
+    company_logo: org-c
     location: Douala
     date_start: '2013-09-01'
     date_end: '2016-07-01'
