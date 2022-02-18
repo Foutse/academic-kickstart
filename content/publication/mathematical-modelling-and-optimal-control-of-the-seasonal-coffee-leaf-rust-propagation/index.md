@@ -47,5 +47,5 @@ summary: >-
     strategy can be implemented in a coffee plantation to reduce the damage caused
     by CLR, therefore increasing the coffee production. Numerical simulations are
     performed to illustrate and validate the theoretical results.
-date: 2022-02-18T19:48:19.623Z
+date: 2021-06-30T18:48:19.623Z
 ---
