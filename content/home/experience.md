@@ -53,7 +53,7 @@ experience:
   - title: Tutor for high school pupils
     company: College
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Douala
     date_start: '2013-09-01'
     date_end: '2016-07-01'
